@@ -67,7 +67,8 @@ public String getProductName(){
 public void setProductName(String prodName){
   this.productName = prodName;
   }
-
+//update.jva
+  
 // to get the quantity of the product
 public int getQuantity(){
   return quantity;
