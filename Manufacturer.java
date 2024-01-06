@@ -8,6 +8,7 @@ public Manufacturer(){
   this.companyName = "";
   this.companyAddress = null;
  }
+  //second
 
 // parameterized constructor
 public Manufacturer(String compName, Address address){
