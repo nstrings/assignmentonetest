@@ -9,7 +9,7 @@ public Address(String str, String city, String st, String zip){
     this.state = st;
     this.zip = zip;
   }
-
+//change to address logic
 // to get the street name
 public String getStreet(){
   return street;
