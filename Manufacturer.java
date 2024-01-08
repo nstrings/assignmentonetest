@@ -9,7 +9,7 @@ public Manufacturer(){
   this.companyAddress = null;
  }
   //second
-
+//last
 // parameterized constructor
 public Manufacturer(String compName, Address address){
   this.companyName = compName;
